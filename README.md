@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/a7/e8/a8/a7e8a854a917a1a3102d2f2d1b6204d6.png" />
+
 <h1>Hey there👋 I'm Ashish</h1>
 Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web developer with a passion for problem solving and learning new technologies. With expertise in modern technologies and a collaborative spirit, I thrive on turning my ideas into functional and visually appealing web applications.
 
