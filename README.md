@@ -40,3 +40,6 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web de
 </div>
 
 <hr/>
+
+<img src="/footer.webp" width="100%"/>
+
