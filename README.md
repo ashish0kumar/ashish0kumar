@@ -1,6 +1,6 @@
 <h1>Hey there👋 I'm Ashish</h1>
 
-<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="800px" />
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="800px" height="530px" />
 
 Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web developer with a passion for problem solving and learning new technologies. With expertise in modern technologies and a collaborative spirit, I thrive on turning my ideas into functional and visually appealing web applications.
 
