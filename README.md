@@ -8,9 +8,9 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web de
 
 <br/>
 
-- 🚀 I’m currently working on **something cool** 😉
-- 🧠 I’m learning **React** and **Typescript**
-- 🤝  I'm open to collaborating on Full Stack Web Dev Projects
+- 🚀 Working on multiple frontend and backend projects using MERN stack
+- 🧠 Currently Learning **React** with **Typescript**
+- 🤝 Open to collaborate on Full Stack Web Dev Projects
 - ⚡ **Catppuccin FTW! 🐈🍵**
 
 <h2 align="left">⚙️ Languages and Tools</h2>
