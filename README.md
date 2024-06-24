@@ -6,7 +6,6 @@
 
 Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web developer with a passion for problem solving and learning new technologies. With expertise in modern technologies and a collaborative spirit, I thrive on turning my ideas into functional and visually appealing web applications.
 
-<br/>
 
 - 🚀 Working on multiple frontend and backend projects using MERN stack
 - 🧠 Currently Learning **React** with **Typescript**
