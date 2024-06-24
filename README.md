@@ -1,6 +1,6 @@
 <h1>Hey there👋 I'm Ashish</h1>
 
-<img src="https://i.pinimg.com/originals/a7/e8/a8/a7e8a854a917a1a3102d2f2d1b6204d6.png" width="800px"/>
+<img src="https://i.pinimg.com/originals/a7/e8/a8/a7e8a854a917a1a3102d2f2d1b6204d6.png" width="100%"/>
 
 <hr/>
 
