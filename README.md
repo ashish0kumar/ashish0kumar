@@ -12,7 +12,7 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web de
 - 🤝 Open to collaborate on Full Stack Web Dev Projects
 - ⚡ **Catppuccin FTW! 🐈🍵**
 
-<h2 align="center">⚙️ Languages and Tools</h2>
+<h2 align="left">⚙️ Languages and Tools</h2>
 <p align="center">
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -35,8 +35,7 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web de
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<h2 align="center">📊 My Stats</h2>
-
+<h2 align="left">📊 My Stats</h2>
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=ashish0kumar&theme=github-dark-blue&hide_border=false&card_height=170&card_width=450" alt="GitHub Streak Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=github_dark" alt="Top Languages" height="170px" />
