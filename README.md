@@ -36,10 +36,10 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web de
 
 <h2>📊 My Stats</h2>
 
-<div>
+<p align="center">
     <img src="https://streak-stats.demolab.com?user=ashish0kumar&theme=github-dark-blue&hide_border=false&card_height=170&card_width=450" alt="GitHub Streak Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=github_dark" alt="Top Languages" height="170px" />
-</div>
+</p>
 
 <hr/>
 
