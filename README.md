@@ -35,7 +35,7 @@ Undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web de
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<h2 align="left">📊 My Github Stats</h2>
+<h2 align="left">📊 Github Stats</h2>
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=ashish0kumar&theme=catppuccin-mocha&hide_border=true&card_height=170&card_width=450" alt="GitHub Streak Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" height="170px" />
