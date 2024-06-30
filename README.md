@@ -39,7 +39,7 @@ CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages"/>
-        <img src="https://streak-stats.demolab.com?user=ashish0kumar&theme=catppuccin-mocha&hide_border=true&card_height=170&card_width=450" alt="GitHub Streak Stats"/>
+        <img src="https://streak-stats.demolab.com?user=ashish0kumar&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 <hr/>
