@@ -42,6 +42,14 @@ CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web
         <img src="https://streak-stats.demolab.com?user=ashish0kumar&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
+<h2 align="left">Recent Activity</h2>
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 <hr/>
 
 <img src="/footer.webp" width="100%"/>
