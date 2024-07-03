@@ -46,9 +46,8 @@ CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web
 
 This is a list of my most recent activity on GitHub.
 
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <hr/>
 
