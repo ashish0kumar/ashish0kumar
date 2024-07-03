@@ -49,7 +49,6 @@ This is a list of my most recent activity on GitHub.
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
--->
 
 <hr/>
 
