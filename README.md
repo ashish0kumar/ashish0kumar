@@ -49,11 +49,11 @@ CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web
   <tr>
     <td>
       <!--START_SECTION:activity-->
-      1. ❌ Closed PR [#61](https://github.com/princekhunt/privateping/pull/61) in [princekhunt/privateping](https://github.com/princekhunt/privateping) <br>
-      2. 💪 Opened PR [#2572](https://github.com/ocaml/ocaml.org/pull/2572) in [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org) <br>
-      3. 🗣 Commented on [#93818](https://github.com/godotengine/godot/pull/93818#issuecomment-2200547867) in [godotengine/godot](https://github.com/godotengine/godot) <br>
-      4. 💪 Opened PR [#93818](https://github.com/godotengine/godot/pull/93818) in [godotengine/godot](https://github.com/godotengine/godot) <br>
-      5. 💪 Opened PR [#61](https://github.com/princekhunt/privateping/pull/61) in [princekhunt/privateping](https://github.com/princekhunt/privateping) <br>
+1. ❌ Closed PR [#61](https://github.com/princekhunt/privateping/pull/61) in [princekhunt/privateping](https://github.com/princekhunt/privateping)
+2. 💪 Opened PR [#2572](https://github.com/ocaml/ocaml.org/pull/2572) in [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org)
+3. 🗣 Commented on [#93818](https://github.com/godotengine/godot/pull/93818#issuecomment-2200547867) in [godotengine/godot](https://github.com/godotengine/godot)
+4. 💪 Opened PR [#93818](https://github.com/godotengine/godot/pull/93818) in [godotengine/godot](https://github.com/godotengine/godot)
+5. 💪 Opened PR [#61](https://github.com/princekhunt/privateping/pull/61) in [princekhunt/privateping](https://github.com/princekhunt/privateping)
       <!--END_SECTION:activity-->
     </td>
     <td>
