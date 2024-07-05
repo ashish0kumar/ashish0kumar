@@ -57,7 +57,7 @@ CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web
       <!--END_SECTION:activity-->
     </td>
     <td>
-      [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b6pe5evsafv3env54svewb2cv4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1e1e2e&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31b6pe5evsafv3env54svewb2cv4&redirect=true)
+        ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b6pe5evsafv3env54svewb2cv4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1e1e2e&interchange=false&bar_color=53b14f&bar_color_cover=true)
     </td>
   </tr>
 </table>
