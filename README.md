@@ -43,9 +43,8 @@ CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web
 </p>
 
 ## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY_START-->
+<!--RECENT_ACTIVITY_END-->
 
 <hr/>
 
