@@ -35,7 +35,7 @@ CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<h2 align="left">📊 Github Stats</h2>
+<h2 align="left">🚀 Github Stats</h2>
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" height="195px"/>
@@ -43,7 +43,7 @@ CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web
 </p>
 
 
-## Recent Activity
+## ⚡Recent Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#61](https://github.com/princekhunt/privateping/pull/61) in [princekhunt/privateping](https://github.com/princekhunt/privateping)
 2. 💪 Opened PR [#2572](https://github.com/ocaml/ocaml.org/pull/2572) in [ocaml/ocaml.org](https://github.com/ocaml/ocaml.org)
@@ -52,6 +52,7 @@ CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, and a full stack web
 5. 💪 Opened PR [#61](https://github.com/princekhunt/privateping/pull/61) in [princekhunt/privateping](https://github.com/princekhunt/privateping)
 <!--END_SECTION:activity-->
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b6pe5evsafv3env54svewb2cv4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=1e1e2e&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31b6pe5evsafv3env54svewb2cv4&redirect=true)
 
 <hr/>
 
