@@ -7,8 +7,8 @@
 CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, Passionate about developing innovative web solutions and contributing to open-source projects. Always eager to tackle challenging problems and learn new technologies.
 
 
-- 🚀 Working on multiple frontend and backend projects using MERN stack
-- 🧠 Currently Learning **React** with **Typescript**
+- 🚀 Working on multiple frontend and backend projects
+- 🧠 Currently Learning **Nextjs**
 - 🤝 Open to collaborate on Full Stack Web Dev Projects
 - 🐈 **Catppuccin FTW!**
 
