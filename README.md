@@ -4,15 +4,16 @@
 
 <hr/>
 
-CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, Passionate about developing innovative web solutions and contributing to open-source projects. Always eager to tackle challenging problems and learn new technologies.
+Welcome to my GitHub profile! **I'm Ashish Kumar**, a CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, passionate about developing innovative web solutions and contributing to open-source projects. Always eager to tackle challenging problems and learn new technologies.
 
+___“What I cannot create, I do not understand” - Richard Feynman___
 
 - 🚀 Working on multiple frontend and backend projects
 - 🧠 Currently Learning **Nextjs**
 - 🤝 Open to collaborate on Full Stack Web Dev Projects
 - 🐈 **Catppuccin FTW!**
 
-<h2 align="left">⚙️ Languages and Tools</h2>
+<h2 align="left">🛠️ Skills & Technologies</h2>
 <p align="center">
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
