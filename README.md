@@ -36,10 +36,23 @@ CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, Passionate about dev
 
 <h2 align="left">🚀 Github Stats</h2>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" height="195px"/>
+    </td>
+  </tr>
+</table>
+
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" height="195px"/>
 </p>
+-->
 
 ![Custom Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish0kumar&bg_color=1e1e2e&color=dadada&line=67b0e8&point=dadada&area=true&hide_border=true)
 
