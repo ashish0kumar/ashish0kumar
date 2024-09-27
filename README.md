@@ -37,16 +37,26 @@ ___“What I cannot create, I do not understand” - Richard Feynman___
 
 <h2 align="left">🚀 Github Stats</h2>
 
+<div align="center">
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" height="195px"/>
-    </td>
-  </tr>
+<tr>
+<td>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ashish0kumar&theme=catppuccin-mocha&hide_border=true)
+
+</td>
+</tr>
 </table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github"/></a></td>
+<td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true"/></a></td>
+</tr>
+</table>
+</div>
 
 <!--
 <p align="center">
@@ -55,7 +65,7 @@ ___“What I cannot create, I do not understand” - Richard Feynman___
 </p>
 -->
 
-![Custom Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish0kumar&bg_color=1e1e2e&color=dadada&line=67b0e8&point=dadada&area=true&hide_border=true)
+<!-- ![Custom Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish0kumar&bg_color=1e1e2e&color=dadada&line=67b0e8&point=dadada&area=true&hide_border=true) -->
 
 <!-- <img src="https://streak-stats.demolab.com?user=ashish0kumar&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak Stats"/> -->
 
