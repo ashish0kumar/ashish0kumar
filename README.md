@@ -13,6 +13,8 @@
 - 🤝 Open to collaborate on Full Stack Web Dev Projects
 - 🐈 **Catppuccin FTW!**
 
+<br/>
+
 <h2 align="center">🛠️ Skills & Technologies</h2>
 <p align="center">
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -59,16 +61,16 @@
 </table>
 </div>
 
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" height="195px"/>
-</p>
--->
+<div align="center">
 
-<!-- ![Custom Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish0kumar&bg_color=1e1e2e&color=dadada&line=67b0e8&point=dadada&area=true&hide_border=true) -->
+<details>
 
-<!-- <img src="https://streak-stats.demolab.com?user=ashish0kumar&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak Stats"/> -->
+<summary><h3>💻 LeetCode Stats</h3></summary>
+
+![leetcode](https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&theme=transparent)
+
+</details>
+</div>
 
 <hr/>
 
