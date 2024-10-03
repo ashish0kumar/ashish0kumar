@@ -4,16 +4,16 @@
 
 <hr/>
 
-Welcome to my GitHub profile! **I'm Ashish Kumar**, a CS undergrad <a href="http://nsut.ac.in/en/home">@NSUT</a>, passionate about developing innovative web solutions and contributing to open-source projects. Always eager to tackle challenging problems and learn new technologies.
+**I'm Ashish Kumar**, a CS undergrad <a href="http://nsut.ac.in/en/home" target="_blank">@NSUT</a>, passionate about building innovative, high-performance projects while exploring and contributing to open-source. I’m always eager to tackle challenging problems, learn new technologies, and ultimately craft really awesome software.
 
-___“What I cannot create, I do not understand” - Richard Feynman___
+> ___“What I cannot create, I do not understand” - Richard Feynman___
 
 - 🚀 Working on multiple frontend and backend projects
 - 🧠 Currently Learning **Nextjs**
 - 🤝 Open to collaborate on Full Stack Web Dev Projects
 - 🐈 **Catppuccin FTW!**
 
-<h2 align="left">🛠️ Skills & Technologies</h2>
+<h2 align="center">🛠️ Skills & Technologies</h2>
 <p align="center">
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -29,13 +29,14 @@ ___“What I cannot create, I do not understand” - Richard Feynman___
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-        <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="36" height="36" alt="Linux" /></a>
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
-<h2 align="left">🚀 Github Stats</h2>
+<br/>
+
+<h2 align="center">🚀 Github Stats</h2>
 
 <div align="center">
 <table>
@@ -52,7 +53,7 @@ ___“What I cannot create, I do not understand” - Richard Feynman___
 <div align="center">
 <table>
 <tr>
-<td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github"/></a></td>
+<td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true"/></a></td>
 <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true"/></a></td>
 </tr>
 </table>
