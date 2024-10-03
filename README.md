@@ -67,7 +67,7 @@
 
 <summary><h3>💻 LeetCode Stats</h3></summary>
 
-![leetcode](https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&theme=transparent)
+![leetcode](https://leetcard.jacoblin.cool/ashish0kumar?ext=contest)
 
 </details>
 </div>
