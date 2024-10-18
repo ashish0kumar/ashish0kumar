@@ -65,6 +65,17 @@
 
 <details>
 
+<summary><h3>📊 WakaTime Stats</h3></summary>
+
+<img src="https://wakatime.com/share/@ashish0kumar/ed55dc37-7b45-430a-9ce5-bc1f204e673a.svg">
+
+</details>
+</div>
+
+<div align="center">
+
+<details>
+
 <summary><h3>💻 LeetCode Stats</h3></summary>
 
 ![leetcode](https://leetcard.jacoblin.cool/ashish0kumar?ext=contest)
