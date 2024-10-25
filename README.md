@@ -67,7 +67,7 @@
 
 <summary><h3>📊 WakaTime Stats</h3></summary>
 
-<img src="https://wakatime.com/share/@ashish0kumar/ed55dc37-7b45-430a-9ce5-bc1f204e673a.svg">
+<img src="https://wakatime.com/share/@ashish0kumar/ed55dc37-7b45-430a-9ce5-bc1f204e673a.svg" width="75%">
 
 </details>
 </div>
