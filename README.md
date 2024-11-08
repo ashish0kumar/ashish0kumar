@@ -4,12 +4,13 @@
 
 <hr/>
 
-**I'm Ashish Kumar**, a CS undergrad <a href="http://nsut.ac.in/en/home" target="_blank">@NSUT</a>, passionate about building innovative, high-performance projects while exploring and contributing to open-source. I’m always eager to tackle challenging problems, learn new technologies, and ultimately craft really awesome software.
+Passionate about building innovative, high-performance projects while exploring and contributing to open-source. I’m always eager to tackle challenging problems, learn new technologies, and ultimately craft really awesome software.
 
 > ___“What I cannot create, I do not understand” - Richard Feynman___
 
+- 🎓 I'm currently pursuing a B.Tech in Computer Science and Artificial Intelligence (CSAI) from <br> [Netaji Subhas University of Technology (NSUT)](http://nsut.ac.in/en/home).
 - 🔨 Working on various **webapps**, **tools**, and **CLIs**.
-- 🧠 Currently learning **Go**.
+- 🧠 Currently learning **Go** to improve my skills in backend development and system programming.
 - 🤝 I love contributing to **open-source software**.
 - 🎨 I like [**soothing pastel colours**](https://github.com/catppuccin).
 
