@@ -8,10 +8,10 @@
 
 > ___“What I cannot create, I do not understand” - Richard Feynman___
 
-- 🚀 Working on multiple frontend and backend projects
-- 🧠 Currently Learning **Nextjs**
-- 🤝 Open to collaborate on Full Stack Web Dev Projects
-- 🐈 **Catppuccin FTW!**
+- 🔨 Working on various **webapps**, **tools**, and **CLIs**.
+- 🧠 Currently learning **Go**.
+- 🤝 I love contributing to **open-source software**.
+- 🎨 I like [**soothing pastel colours**](https://github.com/catppuccin).
 
 <br/>
 
