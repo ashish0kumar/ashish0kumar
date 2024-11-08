@@ -8,7 +8,7 @@ Passionate about building innovative, high-performance projects while exploring 
 
 > ___“What I cannot create, I do not understand” - Richard Feynman___
 
-- 🎓 I'm currently pursuing a B.Tech in **Computer Science and Artificial Intelligence** (CSAI) from [**Netaji Subhas University of Technology**](http://nsut.ac.in/en/home).
+- 🎓 I'm currently pursuing a B.Tech in **Computer Science and Artificial Intelligence** (CSAI) from [**NSUT**](http://nsut.ac.in/en/home).
 - 🔨 Working on various **webapps**, **tools**, and **CLIs**.
 - 🧠 Currently learning **Go** to improve my skills in backend development and system programming.
 - 🤝 I love contributing to **open-source software**.
