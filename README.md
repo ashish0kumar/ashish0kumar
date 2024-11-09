@@ -48,7 +48,7 @@ Passionate about building innovative, high-performance projects while exploring 
 <tr>
 <td>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ashish0kumar&theme=catppuccin-mocha&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-nu-tawny.vercel.app/?user=ashish0kumar&theme=catppuccin-mocha&hide_border=true)
 
 </td>
 </tr>
