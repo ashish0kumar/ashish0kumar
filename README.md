@@ -65,6 +65,14 @@ Passionate about building innovative, high-performance projects while exploring 
 </div>
 
 <div align="center">
+<h3>💻 LeetCode Stats</h3>
+
+![leetcode](https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&sheets=https://gist.githubusercontent.com/ashish0kumar/63ba5b1d74cee266579cb088938eb3c3/raw/b4446cba266265f61ceb8d680bda7365d9620406/example.css)
+
+</div>
+
+<!--
+<div align="center">
 
 <details>
 
@@ -77,7 +85,7 @@ Passionate about building innovative, high-performance projects while exploring 
 
 <div align="center">
 
-<details>
+<details open>
 
 <summary><h3>💻 LeetCode Stats</h3></summary>
 
@@ -85,6 +93,8 @@ Passionate about building innovative, high-performance projects while exploring 
 
 </details>
 </div>
+
+-->
 
 <hr/>
 
