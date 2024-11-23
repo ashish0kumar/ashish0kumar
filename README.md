@@ -4,12 +4,6 @@
 
 <hr/>
 
-###
-
-
-
-###
-
 Passionate about building innovative, high-performance projects while exploring and contributing to open-source. I’m always eager to tackle challenging problems, learn new technologies, and ultimately craft really awesome software.
 
 > ___“What I cannot create, I do not understand” - Richard Feynman___
@@ -21,7 +15,7 @@ Passionate about building innovative, high-performance projects while exploring 
 
 <br/>
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
+<h3 align="center">🛠️ Skills & Technologies</h3>
 <p align="center">
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="30" height="30" alt="C++" /></a>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" height="30" alt="C" /></a>
@@ -45,7 +39,16 @@ Passionate about building innovative, high-performance projects while exploring 
 
 <br/>
 
-<h2 align="center">🚀 Github Stats</h2>
+<h3 align="center">📉 Stats go brrr</h3>
+
+<div align="center">
+<table>
+<tr>
+<td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true"/></a></td>
+<td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true"/></a></td>
+</tr>
+</table>
+</div>
 
 <div align="center">
 <table>
@@ -60,16 +63,7 @@ Passionate about building innovative, high-performance projects while exploring 
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true"/></a></td>
-<td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true"/></a></td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<h3>💻 LeetCode Stats</h3>
+<h3>💻 LeetCode</h3>
 
 ![leetcode](https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&sheets=https://gist.githubusercontent.com/ashish0kumar/63ba5b1d74cee266579cb088938eb3c3/raw/b4446cba266265f61ceb8d680bda7365d9620406/example.css)
 
