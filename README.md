@@ -3,7 +3,8 @@
 
 <!-- <img src="/header.jpeg" width="100%"/>
 
-<hr/> -->
+<hr/> 
+-->
 
 Passionate about building **innovative, high-performance projects** while exploring and contributing to **open-source**. I’m always eager to tackle challenging problems, learn new technologies, and ultimately craft really **awesome software**.
 
@@ -14,7 +15,6 @@ Passionate about building **innovative, high-performance projects** while explor
 - 🤝 I love contributing to **open-source software**.
 - 🎨 I like [**soothing pastel colours**](https://github.com/catppuccin) and occasionally contribute to it.
 
-<br/>
 
 <h2>🛠️ Skills & Technologies</h2>
 <p>
@@ -38,7 +38,6 @@ Passionate about building **innovative, high-performance projects** while explor
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="30" height="30" alt="Linux" /></a>
 </p>
 
-<br/>
 
 <h2>📉 Stats go brrr</h2>
 
@@ -77,6 +76,8 @@ Passionate about building **innovative, high-performance projects** while explor
 </div>
 -->
 
-<!-- <hr/>
+<!-- 
+<hr/>
 
-<img src="/footer.webp" width="100%"/> -->
+<img src="/footer.webp" width="100%"/> 
+-->
