@@ -1,10 +1,11 @@
-<h1 align="center">Hey there👋 I'm Ashish</h1>
+<samp>
+<h1>Hey there👋 I'm Ashish</h1>
 
-<img src="/header.jpeg" width="100%"/>
+<!-- <img src="/header.jpeg" width="100%"/>
 
-<hr/>
+<hr/> -->
 
-Passionate about building innovative, high-performance projects while exploring and contributing to open-source. I’m always eager to tackle challenging problems, learn new technologies, and ultimately craft really awesome software.
+Passionate about building **innovative, high-performance projects** while exploring and contributing to **open-source**. I’m always eager to tackle challenging problems, learn new technologies, and ultimately craft really **awesome software**.
 
 > ___“What I cannot create, I do not understand” - Richard Feynman___
 
@@ -15,8 +16,8 @@ Passionate about building innovative, high-performance projects while exploring 
 
 <br/>
 
-<h3 align="center">🛠️ Skills & Technologies</h3>
-<p align="center">
+<h2>🛠️ Skills & Technologies</h2>
+<p>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="30" height="30" alt="C++" /></a>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" height="30" alt="C" /></a>
         <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="30" height="30" alt="Go" /></a>
@@ -39,29 +40,29 @@ Passionate about building innovative, high-performance projects while exploring 
 
 <br/>
 
-<h3 align="center">📉 Stats go brrr</h3>
+<h2>📉 Stats go brrr</h2>
 
-<div align="center">
-<table>
-<tr>
-<td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true"/></a></td>
-<td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true"/></a></td>
-</tr>
-</table>
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="165px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&hide_border=true"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&theme=catppuccin_mocha&hide_border=true"/></a>
 </div>
 
-<div align="center">
+<!--
+<div>
         
 ![GitHub Streak](https://github-streak-stats-flame.vercel.app/?user=ashish0kumar&theme=catppuccin-mocha&border_radius=5&border=45475a)
 
 </div>
+-->
 
-<div align="center">
-<h3>💻 LeetCode</h3>
+<div>
+<h3>🧩 LeetCode</h3>
 
 ![leetcode](https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&sheets=https://gist.githubusercontent.com/ashish0kumar/63ba5b1d74cee266579cb088938eb3c3/raw/b4446cba266265f61ceb8d680bda7365d9620406/example.css)
 
 </div>
+
+</samp>
 
 <!--
 <div align="center">
@@ -76,6 +77,6 @@ Passionate about building innovative, high-performance projects while exploring 
 </div>
 -->
 
-<hr/>
+<!-- <hr/>
 
-<img src="/footer.webp" width="100%"/>
+<img src="/footer.webp" width="100%"/> -->
