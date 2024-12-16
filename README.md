@@ -1,5 +1,6 @@
 <samp>
 <h1>Hey there👋 I'm Ashish</h1>
+</samp>
 
 <!-- <img src="/header.jpeg" width="100%"/>
 
@@ -15,8 +16,10 @@ Passionate about building **innovative, high-performance projects** while explor
 - 🤝 I love contributing to **open-source software**.
 - 🎨 I like [**soothing pastel colours**](https://github.com/catppuccin) and occasionally contribute to it.
 
-
+<samp>
 <h2>🛠️ Skills & Technologies</h2>
+</samp>
+
 <p>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="30" height="30" alt="C++" /></a>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" height="30" alt="C" /></a>
@@ -38,8 +41,9 @@ Passionate about building **innovative, high-performance projects** while explor
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="30" height="30" alt="Linux" /></a>
 </p>
 
-
-<h2>📉 Stats go brrr</h2>
+<samp>
+<h2>📈 My Github Stats</h2>
+</samp>
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="165px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&border_color=45475a"/></a>
@@ -55,13 +59,13 @@ Passionate about building **innovative, high-performance projects** while explor
 -->
 
 <div>
+<samp>
 <h3>🧩 LeetCode</h3>
+</samp>
 
 <a href="https://leetcode.com/u/ashish0kumar/"><img width="395px" align="center" alt="Top Language" src="https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&sheets=https://gist.githubusercontent.com/ashish0kumar/63ba5b1d74cee266579cb088938eb3c3/raw/b4446cba266265f61ceb8d680bda7365d9620406/example.css"/></a>
 
 </div>
-
-</samp>
 
 <!--
 <div align="center">
