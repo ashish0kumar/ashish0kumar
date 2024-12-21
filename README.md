@@ -63,7 +63,7 @@ Passionate about building **innovative, high-performance projects** while explor
 <h3>🧩 LeetCode</h3>
 </samp>
 
-<a href="https://leetcode.com/u/ashish0kumar/"><img width="395px" align="center" alt="Top Language" src="https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&sheets=https://gist.githubusercontent.com/ashish0kumar/63ba5b1d74cee266579cb088938eb3c3/raw/b4446cba266265f61ceb8d680bda7365d9620406/example.css"/></a>
+<a href="https://leetcode.com/u/ashish0kumar/"><img width="395px" align="center" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&sheets=https://gist.githubusercontent.com/ashish0kumar/63ba5b1d74cee266579cb088938eb3c3/raw/b4446cba266265f61ceb8d680bda7365d9620406/example.css"/></a>
 
 </div>
 
