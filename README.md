@@ -2,11 +2,6 @@
 <h1>Hey there👋 I'm Ashish</h1>
 </samp>
 
-<!-- <img src="/header.jpeg" width="100%"/>
-
-<hr/> 
--->
-
 Passionate about building **innovative, high-performance projects** while exploring and contributing to **open-source**. I’m always eager to tackle challenging problems, learn new technologies, and ultimately craft really **awesome software**.
 
 > ___“What I cannot create, I do not understand” - Richard Feynman___
@@ -68,21 +63,12 @@ Passionate about building **innovative, high-performance projects** while explor
 
 </div>
 
+
 <!--
-<div align="center">
-
 <details>
-
 <summary><h3>📊 WakaTime Stats</h3></summary>
 
 <img src="https://wakatime.com/share/@ashish0kumar/ed55dc37-7b45-430a-9ce5-bc1f204e673a.svg" width="75%">
 
 </details>
-</div>
--->
-
-<!-- 
-<hr/>
-
-<img src="/footer.webp" width="100%"/> 
 -->
