@@ -12,9 +12,10 @@ Passionate about building **innovative, high-performance projects** while explor
 > ___“What I cannot create, I do not understand” - Richard Feynman___
 
 - 🎓 I'm currently an undergraduate at [**NSUT**](http://nsut.ac.in/en/home).
-- 🔨 Working on various **Webapps**, **Tools**, and **CLIs**.
-- 🤝 I love contributing to **open-source software**.
-- 🎨 I like [**soothing pastel colours**](https://github.com/catppuccin) and occasionally contribute to it.
+- 🔨 Working on various **Web apps**, **tools**, and **CLIs**.
+- 🔧 I enjoy tinkering with my [**setup**](https://github.com/ashish0kumar/windots) and [**dev workflow**](https://github.com/ashish0kumar/dotfiles) to make them more awesome.
+- 🤝 Passionate about contributing to **open-source software**.
+- 🎨 I love [**soothing pastel colours**](https://github.com/catppuccin) and occasionally contribute to them.
 
 <samp>
 <h2>🛠️ Skills & Technologies</h2>
