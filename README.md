@@ -37,8 +37,9 @@ Passionate about building **innovative, high-performance projects** while explor
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="30" height="30" alt="Linux" /></a>
 </p>
 
+
 <samp>
-<h2>📈 My Github Stats</h2>
+<h2>📶 Statistics</h2>
 </samp>
 
 <div>
@@ -54,15 +55,21 @@ Passionate about building **innovative, high-performance projects** while explor
 </div>
 -->
 
+<br>
+
 <div>
-<samp>
-<h3>🧩 LeetCode</h3>
-</samp>
 
 <a href="https://leetcode.com/u/ashish0kumar/"><img width="395px" align="center" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&sheets=https://gist.githubusercontent.com/ashish0kumar/63ba5b1d74cee266579cb088938eb3c3/raw/b4446cba266265f61ceb8d680bda7365d9620406/example.css"/></a>
 
 </div>
 
+<br>
+
+> [!NOTE]
+> <code>➜ **linkedin:** [ash1sh0kumar](https://www.linkedin.com/in/ash1sh0kumar/)</code><br>
+> <code>➜ **twitter:** [ash1sh0kumar](https://x.com/ash1sh0kumar)</code><br><br>
+> <code>➜ **discord:** [ash1sh](https://discord.com/users/1015907203695259718/)</code><br>
+> <code>➜ **spotify:** [ash1sh](https://open.spotify.com/user/31b6pe5evsafv3env54svewb2cv4?si=b29fb89a6cc44bba)</code><br>
 
 <!--
 <details>
