@@ -1,6 +1,7 @@
 # Hey there, 👋 I'm Ashish!
 
-Passionate about building **innovative, high-performance projects** while exploring and contributing to **open-source**. I’m always eager to tackle challenging problems, learn new technologies, and ultimately craft really **awesome software**.
+Passionate about building **innovative, high-performance projects** while exploring and contributing to **open-source**. <br>
+Always eager to **tackle challenging problems**, **learn new technologies**, and ultimately craft really **awesome software**.
 
 - 🎓 I'm currently an undergraduate at [**NSUT**](http://nsut.ac.in/en/home).
 - 🔨 Working on various **Web apps**, **tools**, and **CLIs**.
