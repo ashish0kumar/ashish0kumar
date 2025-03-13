@@ -50,13 +50,13 @@ Passionate about building **innovative, high-performance projects** while explor
 <a href="https://leetcode.com/u/ashish0kumar/"><img width="395px" align="center" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&theme=catppuccinMocha"/></a>
 
 </div>
--->
-
 
 <br>
 
 > ___“What I cannot create, I do not understand”___ <br>
 > ~ Richard Feynman
+
+-->
 
 <!--
 <details>
