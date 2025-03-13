@@ -1,6 +1,4 @@
-<samp>
-<h1>Hey there👋 I'm Ashish</h1>
-</samp>
+# Hey there, 👋 I'm Ashish!
 
 Passionate about building **innovative, high-performance projects** while exploring and contributing to **open-source**. I’m always eager to tackle challenging problems, learn new technologies, and ultimately craft really **awesome software**.
 
@@ -10,11 +8,8 @@ Passionate about building **innovative, high-performance projects** while explor
 - 🔨 Working on various **Web apps**, **tools**, and **CLIs**.
 - 🔧 I enjoy tinkering with my [**setup**](https://github.com/ashish0kumar/windots) and [**dev workflow**](https://github.com/ashish0kumar/dotfiles) to make them more awesome.
 - 🤝 Passionate about contributing to **open-source software**.
-- 🎨 I love [**soothing pastel colours**](https://github.com/catppuccin) and occasionally contribute to them.
 
-<samp>
-<h2>🛠️ Skills & Technologies</h2>
-</samp>
+## 🛠️ Skills & Technologies
 
 <p>
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="30" height="30" alt="C++" /></a>
@@ -37,10 +32,7 @@ Passionate about building **innovative, high-performance projects** while explor
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="30" height="30" alt="Linux" /></a>
 </p>
 
-
-<samp>
-<h2>📈 Statistics</h2>
-</samp>
+## 📈 Statistics
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="165px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&border_color=45475a"/></a>
