@@ -1,14 +1,15 @@
-# Hey there, 👋 I'm Ashish!
+### Hi, I'm Ashish 👋
 
-Passionate about building **innovative, high-performance projects** while exploring and contributing to **open-source**. <br>
-Always eager to **tackle challenging problems**, **learn new technologies**, and ultimately craft really **awesome software**.
+Passionate about building **innovative, high-performance projects** while exploring and contributing to **open source**. <br>
+Always eager to **tackle challenging problems**, **learn new technologies**, and craft truly **awesome software**.
 
-- 🎓 I'm currently an undergraduate at [**NSUT**](http://nsut.ac.in/en/home).
-- 🔨 Working on various **Web apps**, **tools**, and **CLIs**.
-- 🔧 I enjoy tinkering with my [**setup**](https://github.com/ashish0kumar/windots) and [**dev workflow**](https://github.com/ashish0kumar/dotfiles) to make them more awesome.
-- 🤝 Passionate about contributing to **open-source software**.
+- 🎓 Undergraduate at [**NSUT**](http://nsut.ac.in/en/home)
+- 🔨 Building various **web apps**, **tools**, and **CLIs**
+- 🔧 Tinkering with my [**setup**](https://github.com/ashish0kumar/windots) and [**dev workflow**](https://github.com/ashish0kumar/dotfiles)
+- 🤝 Contributing to **open source software**
 
-## 🛠️ Skills & Technologies
+<!--
+### Skills & Technologies
 
 <p>
         <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" height="30" alt="C" /></a>
@@ -33,7 +34,9 @@ Always eager to **tackle challenging problems**, **learn new technologies**, and
         <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="30" height="30" alt="Linux" /></a>
 </p>
 
-## 📈 Statistics
+-->
+
+### Stats
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="165px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&theme=catppuccin_mocha&border_color=45475a"/></a>
