@@ -1,12 +1,13 @@
-### Hi, I'm Ashish 👋
+<h2><samp>> Hey there, I'm Ashish 👋</samp></h2>
 
-Passionate about building **innovative, high-performance projects** while exploring and contributing to **open source**. <br>
-Always eager to **tackle challenging problems**, **learn new technologies**, and craft truly **awesome software**.
+Passionate about building **high-performance projects** and contributing to **open source**.  
+Eager to **solve challenging problems**, **learn new technologies**, and craft truly **awesome software**.
 
-- 🎓 Undergraduate at [**NSUT**](http://nsut.ac.in/en/home)
-- 🔨 Building various **web apps**, **tools**, and **CLIs**
-- 🔧 Tinkering with my [**setup**](https://github.com/ashish0kumar/windots) and [**dev workflow**](https://github.com/ashish0kumar/dotfiles)
-- 🤝 Contributing to **open source software**
+- 🎓 CS undergraduate at [**NSUT**](http://nsut.ac.in/en/home)  
+- 🔨 Building **web apps**, **tools**, and **command-line utilities**  
+- 🔧 Ricing my [**setup**](https://github.com/ashish0kumar/windots) and [**dotfiles**](https://github.com/ashish0kumar/dotfiles)  
+- 🤝 Actively contributing to **open source**  
+
 
 <!--
 ### Skills & Technologies
