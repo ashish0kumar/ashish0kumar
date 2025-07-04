@@ -1,7 +1,7 @@
-<h2><samp>> Hey there, I'm Ashish 👋</samp></h2>
+### Hey there, I'm Ashish 👋
 
-Passionate about building **high-performance projects** and contributing to **open source**.  
-Eager to **solve challenging problems**, **learn new technologies**, and craft truly **awesome software**.
+Building **fun, practical apps and tools** for both the **web and terminal** while contributing to **open source**.   
+I love tackling **tough problems, learning new tech**, and creating **software** that’s both **useful and enjoyable**.
 
 - 🎓 CS undergraduate at [**NSUT**](http://nsut.ac.in/en/home)  
 - 🔨 Building **web apps**, **tools**, and **command-line utilities**  
