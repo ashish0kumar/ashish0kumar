@@ -8,6 +8,16 @@ I love tackling **tough problems, learning new tech**, and creating **software**
 - 🔧 Ricing my [**setup**](https://github.com/ashish0kumar/windots) and [**dotfiles**](https://github.com/ashish0kumar/dotfiles)  
 - 🤝 Actively contributing to **open source**  
 
+### Sponsors
+
+Huge thanks to these amazing people for supporting my open source work!
+
+<p>
+  <a href="https://github.com/terminaltrove"><img src="https://avatars.githubusercontent.com/u/121595180?s=200&v=4" width="60px" alt="User avatar: Terminal Trove" /></a>
+  <a href="https://github.com/IroncladDev"><img src="https://avatars.githubusercontent.com/u/50180265?v=4" width="60px" alt="User avatar: IroncladDev" /></a>
+  <a href="https://github.com/estevaom"><img src="https://avatars.githubusercontent.com/u/599080?v=4" width="60px" alt="User avatar: estevaom" /></a>
+  <a href="https://github.com/angelsent"><img src="https://avatars.githubusercontent.com/u/221982763?v=4" width="60px" alt="User avatar: angelsent" /></a>
+</p>
 
 <!--
 ### Skills & Technologies
@@ -36,6 +46,8 @@ I love tackling **tough problems, learning new tech**, and creating **software**
 </p>
 
 -->
+
+<br>
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
