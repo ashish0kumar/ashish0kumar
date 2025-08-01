@@ -15,8 +15,8 @@ Huge thanks to these amazing people for supporting my open source work!
 <p>
   <a href="https://github.com/terminaltrove"><img src="https://avatars.githubusercontent.com/u/121595180?s=200&v=4" width="60px" alt="User avatar: Terminal Trove" /></a>
   <a href="https://github.com/IroncladDev"><img src="https://avatars.githubusercontent.com/u/50180265?v=4" width="60px" alt="User avatar: IroncladDev" /></a>
-  <a href="https://github.com/estevaom"><img src="https://avatars.githubusercontent.com/u/599080?v=4" width="60px" alt="User avatar: estevaom" /></a>
   <a href="https://github.com/angelsent"><img src="https://avatars.githubusercontent.com/u/221982763?v=4" width="60px" alt="User avatar: angelsent" /></a>
+  <a href="https://github.com/estevaom"><img src="https://avatars.githubusercontent.com/u/599080?v=4" width="60px" alt="User avatar: estevaom" /></a>
 </p>
 
 Want to support my work? [Sponsor me here](https://github.com/sponsors/ashish0kumar) 💖
