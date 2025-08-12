@@ -1,16 +1,16 @@
-### Hey there, I'm Ashish 👋
+### Hey there, I'm Ashish :3
 
-Building **fun, practical apps and tools** for both the **web and terminal** while contributing to **open source**.   
-I love tackling **tough problems, learning new tech**, and creating **software** that’s both **useful and enjoyable**.
+Building **fun, practical terminal tools** and **web apps** while contributing to **open source**,  
+with a love for tackling **tough problems, learning new tech**, and **creating software** that’s both **useful and enjoyable** :)
 
-- 🎓 CS undergraduate at [**NSUT**](http://nsut.ac.in/en/home)  
-- 🔨 Building **web apps**, **tools**, and **command-line utilities**  
-- 🔧 Ricing my [**setup**](https://github.com/ashish0kumar/windots) and [**dotfiles**](https://github.com/ashish0kumar/dotfiles)  
-- 🤝 Actively contributing to **open source**  
+- CS Undergrad at [**NSUT**](http://nsut.ac.in/en/home)  
+- Building various **terminal tools** and **web apps**  
+- Ricing my [**setup**](https://github.com/ashish0kumar/windots) and [**dotfiles**](https://github.com/ashish0kumar/dotfiles)  
+- Open source **maintainer** and **contributor**
 
-### Supporters
+### Supporters <3
 
- Huge thanks to these amazing people for backing my open source work!
+A huge thanks to these amazing people for backing my open source work!
 
 <p>
   <a href="https://github.com/terminaltrove"><img src="https://avatars.githubusercontent.com/u/121595180?s=200&v=4" width="60px" alt="Terminal Trove" /></a>
@@ -19,7 +19,7 @@ I love tackling **tough problems, learning new tech**, and creating **software**
   <a href="https://github.com/estevaom"><img src="https://avatars.githubusercontent.com/u/599080?v=4" width="60px" alt="estevaom" /></a>
 </p>
 
-💖 [Support my work](https://github.com/sponsors/ashish0kumar)
+> [**Support my work :)**](https://github.com/sponsors/ashish0kumar)
 
 <br>
 
@@ -51,33 +51,10 @@ I love tackling **tough problems, learning new tech**, and creating **software**
 
 -->
 
-
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashish0kumar&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0kumar&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
 </div>
-
-<!--
-<div>
-        
-![GitHub Streak](https://github-streak-stats-flame.vercel.app/?user=ashish0kumar&theme=catppuccin-mocha&border_radius=5&border=45475a)
-
-</div>
-
-<br>
-
-<div>
-
-<a href="https://leetcode.com/u/ashish0kumar/"><img width="395px" align="center" alt="LeetCode stats" src="https://leetcard.jacoblin.cool/ashish0kumar?ext=contest&theme=catppuccinMocha"/></a>
-
-</div>
-
-<br>
-
-> ___“What I cannot create, I do not understand”___ <br>
-> ~ Richard Feynman
-
--->
 
 <!--
 <details>
