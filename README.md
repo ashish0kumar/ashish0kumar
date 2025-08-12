@@ -19,7 +19,7 @@ A huge thanks to these amazing people for backing my open source work!
   <a href="https://github.com/estevaom"><img src="https://avatars.githubusercontent.com/u/599080?v=4" width="60px" alt="estevaom" /></a>
 </p>
 
-> [**Support my work :)**](https://github.com/sponsors/ashish0kumar)
+> [**Support my work**](https://github.com/sponsors/ashish0kumar)
 
 <br>
 
