@@ -4,7 +4,7 @@ Building **fun, practical terminal tools** and **web apps** while contributing t
 with a love for tackling **tough problems, learning new tech**, and **creating software** that’s both **useful and enjoyable** :)
 
 - CS Undergrad at [**NSUT**](http://nsut.ac.in/en/home)  
-- Building various **terminal tools** and **web apps**  
+- Building **terminal tools** and **web apps**  
 - Ricing my [**setup**](https://github.com/ashish0kumar/windots) and [**dotfiles**](https://github.com/ashish0kumar/dotfiles)  
 - Open source **maintainer** and **contributor**
 
@@ -15,8 +15,8 @@ A huge thanks to these amazing people for backing my open source work!
 <p>
   <a href="https://github.com/terminaltrove"><img src="https://avatars.githubusercontent.com/u/121595180?s=200&v=4" width="60px" alt="Terminal Trove" /></a>
   <a href="https://github.com/IroncladDev"><img src="https://avatars.githubusercontent.com/u/50180265?v=4" width="60px" alt="IroncladDev" /></a>
-  <a href="https://github.com/angelsent"><img src="https://avatars.githubusercontent.com/u/221982763?v=4" width="60px" alt="angelsent" /></a>
   <a href="https://github.com/estevaom"><img src="https://avatars.githubusercontent.com/u/599080?v=4" width="60px" alt="estevaom" /></a>
+  <a href="https://github.com/angelsent"><img src="https://avatars.githubusercontent.com/u/221982763?v=4" width="60px" alt="angelsent" /></a>
 </p>
 
 > [**Support my work**](https://github.com/sponsors/ashish0kumar)
