@@ -1,4 +1,4 @@
-### hey there, i'm ashish
+### hey there! i'm ashish
 
 i love **open source**, **terminals**, & **minimalism** :3   
 
