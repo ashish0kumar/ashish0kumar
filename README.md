@@ -10,8 +10,6 @@ gradually diving into **core backend** & **systems stuff**
 - ricing my [**setup**](https://github.com/ashish0kumar/windots) and [**dotfiles**](https://github.com/ashish0kumar/dotfiles)
 - open source **maintainer** and **contributor**
 
-<br>
-
 <!--
 ### Skills & Technologies
 
