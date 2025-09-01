@@ -1,6 +1,6 @@
 ### hey there! i'm ashish
 
-i love **open source**, **terminals**, & **minimalism** :3   
+i love **terminals**, **minimalism**, & **open source** :3   
 
 i spend most of my time building **terminal tools** and **web apps**, with some fun side projects,   
 gradually diving into **core backend** & **systems stuff**
